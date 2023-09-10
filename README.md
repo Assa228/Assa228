@@ -13,9 +13,7 @@
 - 🔭 I’m also working on some projects in python.
 - 🎮 I love gaming.
 - ☕️ I hate coffee btw !
-<br>
-<br>
-<br>
+
 <h1 align="left" id="macropower-title">🚀 I keep try to improve myself</h1>
 
 <p align="center">
