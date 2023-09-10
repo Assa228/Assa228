@@ -8,13 +8,9 @@
   </a>
 </p>
 
-<a href="#assa228-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Assa228&show_icons=true" alt="assa228" align="right" />
-</a>
-
 - 🏠 I’m currently living in FRANCE, i'm from TOGO 🇹🇬.
 - 👨‍💻 I’m currently working as a Cybersecurity Engineer.
-- 🔭 I’m currently working on some projects in python.
+- 🔭 I’m also working on some projects in python.
 - 🎮 I love gaming.
 - ☕️ I hate coffee btw !
 <br>
