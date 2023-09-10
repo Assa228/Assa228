@@ -6,6 +6,8 @@ https://img.shields.io/badge/CTF%20TIME%20-8A2BE2
   <img src="https://github-readme-stats.vercel.app/api?username=Assa228&show_icons=true" alt="assa228" align="right" />
 </a>
 
+
+
 - 🏠 I’m currently living in FRANCE, I'm from TOGO 🇻🇳.
 - 👨‍💻 I’m currently working as a Cybersecurity Engineer.
 - 🔭 I’m currently working on my python projects.
@@ -15,20 +17,20 @@ https://img.shields.io/badge/CTF%20TIME%20-8A2BE2
 ### I keep try to improve myself
 
 <p align="center">
-	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/hadoop.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/apache_spark.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
-	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/scala.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="R" alt="linux" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/bitbucket.svg" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Bamboo" alt="Bamboo" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/bamboo.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>	
-	<img title="jira" alt="linux" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/jira.svg" width="40" style="vertical-align:down; margin:4px"/>
-	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/kafka.svg" width="105" height="40" />
-	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
-	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
+	<img title="Hadoop" alt="Hadoop" src="https://github.com/Assa228/Assa228/tree/main/assets/hadoop.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Spark" alt="Spark" src="https://github.com/Assa228/Assa228/tree/main/assets/apache_spark.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
+	<img title="AWS" alt="AWS" src="https://github.com/Assa228/Assa228/tree/main/assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Scala" alt="Scala" src="https://github.com/Assa228/Assa228/tree/main/assets/scala.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Python" alt="Python" src="https://github.com/Assa228/Assa228/tree/main/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="R" alt="linux" src="https://github.com/Assa228/Assa228/tree/main/assets/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
+	<img title="MySQL" alt="MySQL" src="https://github.com/Assa228/Assa228/tree/main/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Bitbucket" alt="Bitbucket" src="https://github.com/Assa228/Assa228/tree/main/assets/bitbucket.svg" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Git" alt="Git" src="https://github.com/Assa228/Assa228/tree/main/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Bamboo" alt="Bamboo" src="https://github.com/Assa228/Assa228/tree/main/assets/bamboo.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>	
+	<img title="jira" alt="linux" src="https://github.com/Assa228/Assa228/tree/main/assets/jira.svg" width="40" style="vertical-align:down; margin:4px"/>
+	<img title="Kafka" alt="Kafka" src="https://github.com/Assa228/Assa228/tree/main/assets/kafka.svg" width="105" height="40" />
+	<img title="linux" alt="linux" src="https://github.com/Assa228/Assa228/tree/main/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
+	<img title="Tableau" alt="Tableau" src="https://github.com/Assa228/Assa228/tree/main/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
 </p>
 
 <p align="center">
