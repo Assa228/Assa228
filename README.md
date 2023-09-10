@@ -14,7 +14,7 @@
 
 - 🏠 I’m currently living in FRANCE,i'm from TOGO 🇹🇬.
 - 👨‍💻 I’m currently working as a Cybersecurity Engineer.
-- 🔭 I’m currently working on my python projects.
+- 🔭 I’m currently working on some projects in python.
 - 🎮 I love Gaming.
 - ☕️ I hate coffee btw !
 <br>
