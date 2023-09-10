@@ -8,12 +8,9 @@
   </a>
 </p>
 
-
 <a href="#assa228-title">
   <img src="https://github-readme-stats.vercel.app/api?username=Assa228&show_icons=true" alt="assa228" align="right" />
 </a>
-
-
 
 - 🏠 I’m currently living in FRANCE 🇫🇷, I'm from TOGO 🇹🇬.
 - 👨‍💻 I’m currently working as a Cybersecurity Engineer.
@@ -21,7 +18,7 @@
 - 🎮 I love Gaming.
 - ☕️ I hate coffee btw !
 
-### I keep try to improve myself
+<h1 align="left" id="macropower-title">🚀 I keep try to improve myself</h1>
 
 <p align="center">
 	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/hadoop.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
