@@ -12,11 +12,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Assa228&show_icons=true" alt="assa228" align="right" />
 </a>
 
-- 🏠 I’m currently living in FRANCE,i'm from TOGO 🇹🇬.
+- 🏠 I’m currently living in FRANCE, i'm from TOGO 🇹🇬.
 - 👨‍💻 I’m currently working as a Cybersecurity Engineer.
 - 🔭 I’m currently working on some projects in python.
-- 🎮 I love Gaming.
+- 🎮 I love gaming.
 - ☕️ I hate coffee btw !
+<br>
 <br>
 <br>
 <h1 align="left" id="macropower-title">🚀 I keep try to improve myself</h1>
