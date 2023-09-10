@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">👋 Hello there! I'm Assa</h1>
-https://img.shields.io/badge/here-we_are_focused!_what_about_you_bro?
+https://img.shields.io/badge/any_time-any_where-blue
 https://img.shields.io/badge/CTF%20TIME%20-8A2BE2
 
 <a href="#assa228-title">
