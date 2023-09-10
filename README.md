@@ -3,8 +3,8 @@
   <a href="https://img.shields.io/badge/any_time-any_where-blue">
     <img src="https://img.shields.io/badge/any_time-any_where-blue" alt="">
   </a>
-  <a href="https://img.shields.io/badge/CTF%20TIME%20-8A2BE2">
-    <img alt="" src="https://img.shields.io/badge/CTF%20TIME%20-8A2BE2">
+  <a href="https://img.shields.io/badge/CTF%20TIME%20-CC0000">
+    <img alt="" src="https://img.shields.io/badge/CTF%20TIME%20-CC0000">
   </a>
 </p>
 
