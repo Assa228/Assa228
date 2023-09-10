@@ -1,6 +1,13 @@
 <h1 align="left" id="macropower-title">👋 Hello there! I'm Assa</h1>
-https://img.shields.io/badge/any_time-any_where-blue
-https://img.shields.io/badge/CTF%20TIME%20-8A2BE2
+<p align="left">
+  <a href="https://img.shields.io/badge/any_time-any_where-blue">
+    <img src="https://img.shields.io/badge/any_time-any_where-blue" alt="">
+  </a>
+  <a href="https://img.shields.io/badge/CTF%20TIME%20-8A2BE2">
+    <img alt="" src="https://img.shields.io/badge/CTF%20TIME%20-8A2BE2">
+  </a>
+</p>
+
 
 <a href="#assa228-title">
   <img src="https://github-readme-stats.vercel.app/api?username=Assa228&show_icons=true" alt="assa228" align="right" />
