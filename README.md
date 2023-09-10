@@ -14,7 +14,7 @@
 - 🎮 I love gaming.
 - ☕️ I hate coffee btw !
 
-<h1 align="left" id="macropower-title">🚀 I keep try to improve myself</h1>
+<h2 align="left" id="macropower-title">🚀 I keep try to improve myself</h2>
 
 <p align="center">
 	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/hadoop.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
