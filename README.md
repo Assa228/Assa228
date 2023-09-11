@@ -4,8 +4,8 @@
   <a href="https://img.shields.io/badge/CTF%20TIME%20-FF0000">
     <img alt="" src="https://img.shields.io/badge/CTF%20TIME%20-FF0000">
   </a>
-  <a href="https://img.shields.io/badge/Top_#1-TOGO-blue">
-    <img src="https://img.shields.io/badge/Top_#1-TOGO-blue" alt="">
+  <a href="https://img.shields.io/badge/Top_1-TOGO-blue">
+    <img src="https://img.shields.io/badge/Top_1-TOGO-blue" alt="">
   </a>
 </p>
 
