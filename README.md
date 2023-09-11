@@ -40,12 +40,10 @@
    <br>
 <br>
 
-## Github Streak 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Assa228&theme=onedark&hide_border=true)](https://git.io/streak-stats) 
-  <!-- Github streak end-->
+## Github Profile View 
+  [](https://github-profile-trophy.vercel.app/?username=Assa228&margin-w=8)
 
-## Rank 
-[![committers.top badge](https://user-badge.committers.top/togo/Assa228.svg)](https://user-badge.committers.top/togo/Assa228)
+ # ![](https://komarev.com/ghpvc/?username=Tednoob17&style=flat-square) 
 
 
  
