@@ -12,7 +12,7 @@
 - ☕️ I hate coffee btw !
 
 <br>
-<h2 align="left" id="macropower-title">🚀 Keep improve</h2>
+<h2 align="left" id="macropower-title">🚀 Keep learning</h2>
 <br>
 <p align="center">
 	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/hadoop.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
