@@ -4,9 +4,6 @@
   <a href="https://ctftime.org/team/1058">
     <img alt="" src="https://img.shields.io/badge/CTF%20TIME%20-FF0000">
   </a>
-  <a href="https://ctftime.org/team/1058">
-    <img src="https://img.shields.io/badge/Top_1-TOGO-blue" alt="">
-  </a>
 </p>
 
 - 🏠 I’m currently living in FRANCE.
