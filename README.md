@@ -33,8 +33,6 @@
 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
 </p>
 
-<script src="https://tryhackme.com/badge/766136"></script>
-
 <p align="center">
    <i>" Don't let the noise of other people's opinions drown out your own inner voice. "</i>
    <br>
