@@ -1,10 +1,11 @@
 <h1 align="left" id="macropower-title">👋 Hello there! I'm Prudencio</h1>
 <p align="left">
-  <a href="https://img.shields.io/badge/any_time-any_where-blue">
-    <img src="https://img.shields.io/badge/any_time-any_where-blue" alt="">
-  </a>
+  <a href="https://github.com/Assa228" ><img src="https://img.shields.io/github/followers/Assa228.svg?label=Follow%20@Assa228&style=social" alt="GitHub"/> </a>
   <a href="https://img.shields.io/badge/CTF%20TIME%20-FF0000">
     <img alt="" src="https://img.shields.io/badge/CTF%20TIME%20-FF0000">
+  </a>
+  <a href="https://img.shields.io/badge/Top_#1-TOGO-blue">
+    <img src="https://img.shields.io/badge/Top_#1-TOGO-blue" alt="">
   </a>
 </p>
 
