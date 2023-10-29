@@ -44,3 +44,5 @@
 <a target="_blank" href="https://www.linkedin.com/in/prudencioo"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 </p>
 </p> 
+
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="prudencioo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/prudencioo?trk=profile-badge">Prudencio T. N.</a></div>
