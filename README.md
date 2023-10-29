@@ -6,8 +6,8 @@
 </p>
 
 - 🏠 I’m currently living in FRANCE.
-- 👨‍💻 I’m working as a Cybersecurity Engineer.
-- 🔭 I’m also working on some projects in python.
+- 👨‍💻 I’m working as Cybersecurity Engineer.
+- 🔭 I’m also working on some projects in python (so far the best language in the world).
 - 🎮 I love gaming.
 - ☕️ I hate coffee btw !
 
