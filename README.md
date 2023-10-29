@@ -20,7 +20,6 @@
 	<img title="R" alt="linux" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="jira" alt="linux" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/jira.svg" width="40" style="vertical-align:down; margin:4px"/>
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
 	
 </p>
