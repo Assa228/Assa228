@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">👋 Hello there! I'm Prudencio</h1>
 <p align="left">
-    <a href="https://ctftime.org/team/1058">
+    <a href="https://ctftime.org/user/165125">
     <img alt="" src="https://img.shields.io/badge/CTF%20TIME%20-FF0000">
   </a>
 </p>
