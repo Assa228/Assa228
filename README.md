@@ -5,8 +5,8 @@
   </a>
 </p>
 
-- 👨‍💻 I’m working as Cybersecurity Engineer.
-- 🔭 I’m also working on some projects in python (so far the best language in the world).
+- 👨‍💻 I’m a Cybersecurity Engineer
+- 🔭 I’m working on some projects in python (so far the best language in the world)
 - 🎮 I love gaming.
 - ☕️ I hate coffee btw !
 
