@@ -1,11 +1,10 @@
-<h1 align="left" id="macropower-title">👋 Hello there! I'm Prudencio</h1>
+<h1 align="left" id="macropower-title">👋 Hello there!</h1>
 <p align="left">
     <a href="https://ctftime.org/user/165125">
     <img alt="" src="https://img.shields.io/badge/CTF%20TIME%20-FF0000">
   </a>
 </p>
 
-- 🏠 I’m currently living in FRANCE.
 - 👨‍💻 I’m working as Cybersecurity Engineer.
 - 🔭 I’m also working on some projects in python (so far the best language in the world).
 - 🎮 I love gaming.
