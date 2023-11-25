@@ -14,7 +14,6 @@
 <h2 align="left" id="macropower-title">🚀 Keep learning</h2>
 <br>
 <p align="center">
-	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Assa228/Assa228/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
